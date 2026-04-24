@@ -1,4 +1,4 @@
-### Contact Management System (Python)
+### Contact Management System (Python) Task 1
 
 ### Intoduction:
 - This is a simple Contact Management System built in Python
@@ -54,3 +54,61 @@
 - Database integration (SQLite)
 - Login system
 - OOP-based structure
+# Conclusion
+- The Contact Management System is a simple yet effective application that demonstrates how basic programming concepts can be used to solve real-world problems
+- It allows users to efficiently store, manage, search, and update contact information in an organized way
+- Through this project, key concepts such as file handling, data structures (lists and dictionaries), input validation, and    programming are applied in a practical scenario
+- The use of a JSON file ensures data persistence, making the system useful beyond a single session
+- Overall, this project provides a strong foundation for building more advanced applications
+- It can be further enhanced by integrating graphical interfaces, databases, or object-oriented programming techniques
+  
+# Multi-User Authentication System (Python - JSON Based)
+
+# Introduction:
+- This project is a Command-Line Interface (CLI) based authentication system developed using Python
+- It allows multiple users to register, login, and manage their accounts securely
+- User data is stored in a JSON file, simulating a basic real-world authentication system
+
+# Features:
+
+- User Registration
+- Unique username and email validation
+- Strong password enforcement
+
+# User Login:
+- Login using username or email
+- Password verification using hashing
+
+# Password Security:
+- Passwords are hashed using SHA-256
+- Plain text passwords are not stored
+
+# JSON Data Storage:
+- User data stored in http://users.json
+- Data loads on program start and updates dynamically
+
+# Additional Functionalities:
+- Password reset
+- Account deletion
+- Input validation using regex
+- Modular code structure
+
+# Technologies Used;
+- Python
+- JSON (for data storage)
+- hashlib (for password hashing)
+- re (for regex validation)
+- os (for file handling)
+
+# How to Run:
+- Make sure Python is installed
+- Save the file as http://main.py (or any name)
+- Run the program: Follow the on-screen menu options
+- Example Operations
+- Register a new user
+- Login with credentials
+- Reset password
+- Delete account
+
+
+
