@@ -62,7 +62,7 @@
 - Overall, this project provides a strong foundation for building more advanced applications
 - It can be further enhanced by integrating graphical interfaces, databases, or object-oriented programming techniques
   
-# Multi-User Authentication System (Python - JSON Based)
+# Multi-User Authentication System (Python - JSON Based) Task 2
 
 # Introduction:
 - This project is a Command-Line Interface (CLI) based authentication system developed using Python
