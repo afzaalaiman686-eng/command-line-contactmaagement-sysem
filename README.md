@@ -110,7 +110,8 @@
 - Reset password
 - Delete account
 
-# Custom Data Encryption & Decryption Tool Task 3
+# Custom Data Encryption & Decryption Tool 
+# Task 3
 # Project Description:
 - This project is a Python-based CLI (Command Line Interface) application designed to encrypt and decrypt data using a custom-built algorithm. It simulates basic real-world data protection techniques by converting readable text into an unreadable format and then reversing it back when needed.
 - The system also supports saving encrypted data into a file and loading it later for decryption.
@@ -170,7 +171,8 @@ This project helped in understanding:
 - Support encryption of files (images, documents)
 - Improve algorithm complexity for stronger security.
 
-# System Log Analyzer & Report Generator Task 4 :
+# System Log Analyzer & Report Generator
+# Task 4 :
 
 # Project Description:
 - This project is a Python-based CLI (Command Line Interface) application that analyzes system or application log files. It reads log data, identifies different types of log messages (ERROR, WARNING, INFO), and generates a summary report.
@@ -241,7 +243,6 @@ This project improved understanding of:
 - File handling and modular programming
 - Building practical tools used in real-world software systems
 
-Overall, this project provides a simple yet effective simulation of how developers and system administrators analyze logs to maintain and improve applications.
 # Future Improvements:
 
 - Add graphical visualization (charts using matplotlib)
@@ -250,7 +251,8 @@ Overall, this project provides a simple yet effective simulation of how develope
 - Highlight critical errors automatically
 - Develop GUI version using Tkinter.
 
-  # Automated Bulk Email Sender with Templates Task 5 :
+  # Automated Bulk Email Sender with Templates
+  #  Task 5 :
 # Project Overview:
 - This project is a Python-based automated email sending system that allows users to send bulk emails to multiple recipients using predefined templates. It supports personalization, CSV-based contact loading, and email history tracking. The system is designed to simulate real-world email automation used in marketing, notifications, and organizational communication.
 # Objective:
@@ -314,7 +316,8 @@ Enable 2-Step Verification before using the system.
 - Dashboard for analytics
 
 
-# PDF Report Generator Task 6 :
+# PDF Report Generator 
+# Task 6 :
 # Description:
 - This project is a Python-based application that generates professional PDF reports using user-provided data. It supports both student and company reporting formats.
 # Features:
@@ -348,7 +351,8 @@ pip install reportlab
 
 Student_Report_20260427_153012.pdf
 
-# Excel Data Cleaning & Analysis Tool Task 7 :
+# Excel Data Cleaning & Analysis Tool
+# Task 7 :
 # Description:
 T- his is a Python-based CLI application that allows users to load, clean, analyze, and save Excel data. The tool is designed to simulate real-world data analysis tasks commonly performed in organizations.
 # Features:
@@ -389,7 +393,8 @@ Save output
 - Automatic data issue detection
 
 
-# Bulk File Renamer & Smart Organizer Task 8 :
+# Bulk File Renamer & Smart Organizer
+# Task 8 :
 
 ## Overview:
 - This Python project is a CLI-based automation tool that helps users rename and organize multiple files efficiently. It simulates real-world file management systems used in automation workflows.
@@ -446,7 +451,8 @@ Save output
 - Uses Python libraries like os, shutil, and csv for file management and logging.
 - Demonstrates real-world automation concepts and modular programming.
 
-# Dynamic Web Scraper for Jobs Task 9 :
+# Dynamic Web Scraper for Jobs 
+# Task 9 :
 
 ## Overview:
 - This project is a Python-based CLI tool that extracts data from websites such as jobs listings, product pages, or news sites. It automates data collection and allows users to search, filter, and store the extracted information.
